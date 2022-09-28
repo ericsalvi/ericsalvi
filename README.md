@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericsalvi&theme=nord&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsalvi&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2E3440&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsalvi&hide=html&title_color=80A0C0&text_color=c9cacc&icon_color=2bbc8a&bg_color=2E3440&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
