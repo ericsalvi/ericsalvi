@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericsalvi&theme=nord&show_icons=true" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsalvi&hide=html&title_color=80A0C0&text_color=D7DDE8&icon_color=2bbc8a&bg_color=2E3440&langs_count=4" />
-</a>
+<div>
+  <span>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericsalvi&theme=nord&show_icons=true" />
+  </span>
+  <span>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsalvi&hide=html&title_color=80A0C0&text_color=D7DDE8&icon_color=2bbc8a&bg_color=2E3440&langs_count=4" />
+  </span>
+</div>
 
 
 <!--
