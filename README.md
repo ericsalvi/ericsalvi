@@ -4,7 +4,7 @@
   <span>
     <img style="height: 205px;" align="center" src="https://github-readme-stats.vercel.app/api?username=ericsalvi&theme=nord&show_icons=true" />
   </span>
-  <span style="margin-left: 30px;">
+  <span>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsalvi&hide=html&title_color=80A0C0&text_color=D7DDE8&icon_color=2bbc8a&bg_color=2E3440&langs_count=4" />
   </span>
 </div>
