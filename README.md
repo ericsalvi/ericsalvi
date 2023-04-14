@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<div>
+<div style="display:flex;align-items:center;gap:10px;">
   <span>
-    <img style="height: 205px;" align="center" src="https://github-readme-stats.vercel.app/api?username=ericsalvi&theme=nord&show_icons=true" />
+    <img style="height: 245px;" align="center" src="https://github-readme-stats.vercel.app/api?username=ericsalvi&theme=nord&show_icons=true" />
   </span>
   <span>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsalvi&hide=html&title_color=80A0C0&text_color=D7DDE8&icon_color=2bbc8a&bg_color=2E3440&langs_count=4" />
