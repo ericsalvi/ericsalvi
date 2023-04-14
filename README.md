@@ -2,10 +2,10 @@
 
 <div>
   <span>
-    <img style="height: 245px;width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=ericsalvi&theme=nord&show_icons=true" />
+    <img style="height: 150px;width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=ericsalvi&theme=nord&show_icons=true" />
   </span>
   <span>
-    <img style="height: 480px;width: 100%;margin-top: 20px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsalvi&hide=html&title_color=80A0C0&text_color=D7DDE8&icon_color=2bbc8a&bg_color=2E3440&langs_count=4" />
+    <img style="height: 193px;width: 100%;padding-top: 20px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsalvi&hide=html&title_color=80A0C0&text_color=D7DDE8&icon_color=2bbc8a&bg_color=2E3440&langs_count=4" />
   </span>
 </div>
 
